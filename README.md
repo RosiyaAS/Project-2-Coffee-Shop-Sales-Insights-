@@ -1,9 +1,12 @@
 # Project-2-Coffee-Shop-Sales-Insights-
-##📄 Project Overview
-###1. Abstract
+📄 Project Overview
+
+1. Abstract
+   
 This project involves an exploratory data analysis (EDA) of a coffee shop’s 2023 transactional data. It aims to uncover key business insights by analyzing product performance, sales trends, and customer behavior. The dataset includes information like transaction time, location, product type, pricing, and quantity. Through data cleaning, feature engineering, and visualization, we identify top-selling products, peak hours, and store-wise performance to support business decisions.
 
-###2. Objective
+3. Objective
+4. 
 The main goals are:
 
 Analyze sales across different time periods (hour, day, month).
@@ -16,7 +19,8 @@ Understand pricing trends and customer purchasing behavior.
 
 Recommend improvements for promotions, inventory, and operations.
 
-###3. Project Information
+3. Project Information
+4. 
 Project Name: Coffee Shop Sales Analysis
 
 Dataset: Internal sales data (Jan–June 2023)
