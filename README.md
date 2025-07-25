@@ -1,4 +1,4 @@
-# Project-2-Coffee-Shop-Sales-Insights-
+# Project-2 Coffee-Shop-Sales-Insights
 📄 Project Overview
 
 1. Abstract
